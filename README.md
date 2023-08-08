@@ -11,7 +11,7 @@ I am a passionate Frontend Developer with hands on experience in developing fast
 * ✉️  You can contact me at [chukwuemekaeziagulu@gmail.com](mailto:chukwuemekaeziagulu@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I'm secretly spiderman... but don't tell anyone
+* ⚡  I'm secretly 🕷️spiderman🕸️... but don't tell anyone 🤫
 
 ### Skills
 
