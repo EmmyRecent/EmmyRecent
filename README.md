@@ -7,7 +7,7 @@ Front-end Developer
 I am a passionate software Developer with hands on experience in developing fast, beautiful and responsive web apps with leading & powerful technologies.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [My Portfolio](https://chukwuemeka-e.com/)
+* 🖥️  See my portfolio at [My Portfolio](https://chukwuemekae.com/)
 * ✉️  You can contact me at [chukwuemekaeziagulu@gmail.com](mailto:chukwuemekaeziagulu@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I'm secretly 🕷️spiderman🕸️... but don't tell anyone 🤫
