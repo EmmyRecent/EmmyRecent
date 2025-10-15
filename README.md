@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I am a passionate Frontend Developer with hands on experience in developing fast, beautiful and responsive web apps with leading & powerful technologies.
+I am a passionate software Developer with hands on experience in developing fast, beautiful and responsive web apps with leading & powerful technologies.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [My Portfolio](http://chukwuemeka-e.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://chukwuemeka-e.com/)
 * ✉️  You can contact me at [chukwuemekaeziagulu@gmail.com](mailto:chukwuemekaeziagulu@gmail.com)
-* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I'm secretly 🕷️spiderman🕸️... but don't tell anyone 🤫
 
